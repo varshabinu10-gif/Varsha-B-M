@@ -1,2 +1,2 @@
-# Varsha-B-M
-Varsha
+# streamlit-demo
+A demo repository for streamlit deployment
